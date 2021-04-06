@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+eray.png
+yagmur.jpeg
 # Distribution / packaging
 .Python
 build/
